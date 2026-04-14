@@ -38,6 +38,6 @@ Soil Type: Binary indicator for 40 specific soil types.
 
 Model Used: Random Forest
 
-Accuracy: [Insert % here]
+Accuracy: 94.95%
 
 Key Insight: Elevation was the most significant predictor for cover type.
